@@ -1,7 +1,6 @@
 ### Hi there I'm RR 👋
 
-
-I work in Javascript and Python. I use Flask/Django, or Koa / Express / NestJS on the backend. I work with SQL using SQLAlchemy, Sequelize, Miro-ORM, Prisma and Mongodb using Mongoose. On the frontend, I work with Angular, React, jQuery, Vanilla JS, and SCSS.
+I work in Javascript and Python. I use Flask/Django, or Koa / Express / NestJS on the backend. I work with SQL using SQLAlchemy, Sequelize, Miro-ORM, Prisma and Mongodb using Mongoose. On the frontend, I work with Angular, React, jQuery, Vanilla JS, and SCSS. I have a love/hate relationship with typescript.
 
 I am passionate about building things from the ground up and love constantly learning new things. I prefer working with mission driven organizations that are actively working to improve life for planet and people. 
 
